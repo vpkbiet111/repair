@@ -1,0 +1,26 @@
+﻿2025-09-25 16:49:10.804   Log opened. (Time zone: UTC+05:30)
+2025-09-25 16:49:10.804   Setup version: Inno Setup version 5.5.9 (u)
+2025-09-25 16:49:10.804   Original Setup EXE: C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~3\session\REPOSI~1\WWDF0W~1\Setup.exe
+2025-09-25 16:49:10.804   Setup command line: /SL5="$11024E,8427893,180224,C:\PROGRA~3\Lenovo\Vantage\ADDIND~1\LENOVO~3\session\REPOSI~1\WWDF0W~1\Setup.exe" /VERYSILENT /LOG="C:\Setup.log"
+2025-09-25 16:49:10.804   Windows version: 10.0.26100  (NT platform: Yes)
+2025-09-25 16:49:10.804   64-bit Windows: Yes
+2025-09-25 16:49:10.804   Processor architecture: x64
+2025-09-25 16:49:10.804   User privileges: Administrative
+2025-09-25 16:49:10.805   64-bit install mode: Yes
+2025-09-25 16:49:10.809   Created temporary directory: C:\WINDOWS\TempInst\is-P85Q9.tmp
+2025-09-25 16:49:10.813   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\devcon.exe
+2025-09-25 16:49:10.818   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\InstallSetting.exe
+2025-09-25 16:49:10.878   InstallParam=checkled -ledver 2.0.1.16 InstallSettingCode=0
+2025-09-25 16:49:10.899   InstallParam=checkyled -yledver 2.1.1.16 InstallSettingCode=0
+2025-09-25 16:49:10.923   InstallParam=checknetfilter -netfilterver 4.0.1.10 InstallSettingCode=2
+2025-09-25 16:49:10.923   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\FBNetFlt.sys
+2025-09-25 16:49:10.925   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\FBNetFilter.inf
+2025-09-25 16:49:10.926   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\fbnetfilter.cat
+2025-09-25 16:49:10.927   Extracting temporary file: C:\WINDOWS\TempInst\is-P85Q9.tmp\FBNetFilterInstall.exe
+2025-09-25 16:49:12.817   InstallLedDriver InstallNetDriver=0
+2025-09-25 16:49:12.968   InstallParam=checkxtu -xtu 7.14.2.14 InstallSettingCode=0
+2025-09-25 16:49:12.969   ResultCode=0
+2025-09-25 16:49:12.969   InitializeSetup returned False; aborting.
+2025-09-25 16:49:12.969   Got EAbort exception.
+2025-09-25 16:49:12.969   Deinitializing Setup.
+2025-09-25 16:49:12.970   Log closed.

@@ -1,0 +1,158 @@
+
+Microsoft DiskPart version 10.0.26100.1
+
+Copyright (C) Microsoft Corporation.
+On computer: MININT-HL84GA7
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online          476 GB  1024 KB        *
+
+Disk 0 is now the selected disk.
+
+Micron MTFDKCD512QFM-1BD1AABLA
+Disk ID: {339F2F4B-1EA3-4B18-9AF6-0760D2685AFB}
+Type   : NVMe
+Status : Online
+Path   : 0
+Target : 0
+LUN ID : 0
+Location Path : PCIROOT(0)#PCI(0600)#PCI(0000)#NVME(P00T00L00)
+Current Read-only State : No
+Read-only  : No
+Boot Disk  : No
+Pagefile Disk  : No
+Hibernation File Disk  : No
+Crashdump Disk  : No
+Clustered Disk  : No
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     C   Windows-SSD  NTFS   Partition    274 GB  Healthy            
+  Volume 1     D   New Volume   NTFS   Partition     80 GB  Healthy            
+  Volume 2     E   CODING       NTFS   Partition     99 GB  Healthy            
+  Volume 3         SYSTEM_DRV   FAT32  Partition    260 MB  Healthy    Hidden  
+  Volume 4     F   WINRE_DRV    NTFS   Partition   2000 MB  Healthy    Hidden  
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     C   Windows-SSD  NTFS   Partition    274 GB  Healthy            
+  Volume 1     D   New Volume   NTFS   Partition     80 GB  Healthy            
+  Volume 2     E   CODING       NTFS   Partition     99 GB  Healthy            
+  Volume 3         SYSTEM_DRV   FAT32  Partition    260 MB  Healthy    Hidden  
+  Volume 4     F   WINRE_DRV    NTFS   Partition   2000 MB  Healthy    Hidden  
+
+Volume 1 is the selected volume.
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+* Disk 0    Online          476 GB  1024 KB        *
+
+Read-only              : No
+Hidden                 : No
+No Default Drive Letter: No
+Shadow Copy            : No
+Offline                : No
+BitLocker Encrypted    : No
+Installable            : Yes
+
+Volume Capacity        :   80 GB
+Volume Free Space      :   31 GB
+
+Disk 0 is now the selected disk.
+
+Micron MTFDKCD512QFM-1BD1AABLA
+Disk ID: {339F2F4B-1EA3-4B18-9AF6-0760D2685AFB}
+Type   : NVMe
+Status : Online
+Path   : 0
+Target : 0
+LUN ID : 0
+Location Path : PCIROOT(0)#PCI(0600)#PCI(0000)#NVME(P00T00L00)
+Current Read-only State : No
+Read-only  : No
+Boot Disk  : No
+Pagefile Disk  : No
+Hibernation File Disk  : No
+Crashdump Disk  : No
+Clustered Disk  : No
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     C   Windows-SSD  NTFS   Partition    274 GB  Healthy            
+  Volume 1     D   New Volume   NTFS   Partition     80 GB  Healthy            
+  Volume 2     E   CODING       NTFS   Partition     99 GB  Healthy            
+  Volume 3         SYSTEM_DRV   FAT32  Partition    260 MB  Healthy    Hidden  
+  Volume 4     F   WINRE_DRV    NTFS   Partition   2000 MB  Healthy    Hidden  
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             260 MB  1024 KB
+  Partition 2    Reserved            16 MB   261 MB
+  Partition 3    Primary            274 GB   277 MB
+  Partition 4    Primary             80 GB   274 GB
+  Partition 5    Primary             99 GB   355 GB
+  Partition 6    Unknown             19 GB   455 GB
+  Partition 7    Recovery          2000 MB   474 GB
+
+Partition 1 is now the selected partition.
+
+Partition 1
+Type    : c12a7328-f81f-11d2-ba4b-00a0c93ec93b
+Hidden  : Yes
+Required: No
+Attrib  : 0000000000000000
+Offset in Bytes: 1048576
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+* Volume 3         SYSTEM_DRV   FAT32  Partition    260 MB  Healthy    Hidden  
+
+Disk 0 is now the selected disk.
+
+Micron MTFDKCD512QFM-1BD1AABLA
+Disk ID: {339F2F4B-1EA3-4B18-9AF6-0760D2685AFB}
+Type   : NVMe
+Status : Online
+Path   : 0
+Target : 0
+LUN ID : 0
+Location Path : PCIROOT(0)#PCI(0600)#PCI(0000)#NVME(P00T00L00)
+Current Read-only State : No
+Read-only  : No
+Boot Disk  : No
+Pagefile Disk  : No
+Hibernation File Disk  : No
+Crashdump Disk  : No
+Clustered Disk  : No
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     C   Windows-SSD  NTFS   Partition    274 GB  Healthy            
+  Volume 1     D   New Volume   NTFS   Partition     80 GB  Healthy            
+  Volume 2     E   CODING       NTFS   Partition     99 GB  Healthy            
+  Volume 3         SYSTEM_DRV   FAT32  Partition    260 MB  Healthy    Hidden  
+  Volume 4     F   WINRE_DRV    NTFS   Partition   2000 MB  Healthy    Hidden  
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             260 MB  1024 KB
+  Partition 2    Reserved            16 MB   261 MB
+  Partition 3    Primary            274 GB   277 MB
+  Partition 4    Primary             80 GB   274 GB
+  Partition 5    Primary             99 GB   355 GB
+  Partition 6    Unknown             19 GB   455 GB
+  Partition 7    Recovery          2000 MB   474 GB
+
+Partition 3 is now the selected partition.
+
+Partition 3
+Type    : ebd0a0a2-b9e5-4433-87c0-68b6b72699c7
+Hidden  : No
+Required: No
+Attrib  : 0000000000000000
+Offset in Bytes: 290455552
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+* Volume 0     C   Windows-SSD  NTFS   Partition    274 GB  Healthy            

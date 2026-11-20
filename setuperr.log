@@ -1,0 +1,186 @@
+﻿2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 04:36:18, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 04:37:20, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:37:20, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:37:20, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:37:20, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:37:20, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:37:20, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:37:29, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 04:37:29, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 04:37:30, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 04:40:04, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 04:40:58, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:40:58, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:40:58, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:40:58, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:40:58, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:40:58, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:41:07, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 04:41:07, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 04:41:08, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 04:47:03, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 04:47:57, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:47:57, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:47:57, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:47:57, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:47:57, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:47:57, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:48:07, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 04:48:07, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 04:48:07, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 04:56:25, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 04:57:40, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:57:40, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:57:40, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:57:40, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:57:40, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:57:40, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:57:49, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 04:57:49, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 04:57:50, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 05:08:38, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 05:09:26, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:09:26, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:09:26, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:09:26, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:09:26, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:09:26, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:09:35, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 05:09:35, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 05:09:35, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 05:11:47, Error                        Failed to install wifi drivers , hr: 0x800106cc
+2026-11-20 05:11:56, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:11:56, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:11:56, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:11:56, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:11:56, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:11:56, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:13:03, Error                        Plugin [{12B3359E-9647-4E6D-93B9-4112B62C7346}]: 0
+2026-11-20 05:13:24, Error                        Plugin [{12B3359E-9647-4E6D-93B9-4112B62C7346}]: BCU Plugin [Detect]: Enumerating files failed. Error: 0x80070003
+2026-11-20 05:13:24, Error                        Failure in IRecovery::Detect. Error: 0x80070003
+2026-11-20 05:13:24, Error                        RunPluginDetection: Failed to detect plugin C:\Windows\System32\BootCriticalUpdatePlugin.dll. Error: 0x80070003
+2026-11-20 05:13:31, Error                        No bugcheck info or minidump available.
+2026-11-20 05:13:31, Error                        StopNetworking() failed. error = 0x1f
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 05:16:01, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 05:17:22, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:17:22, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:17:22, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:17:22, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:17:22, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:17:22, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:17:31, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 05:17:31, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 05:17:32, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 05:26:43, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 05:27:31, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:27:31, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:27:31, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:27:31, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:27:31, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:27:31, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:27:40, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 05:27:40, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 05:27:40, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 05:41:58, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 05:42:45, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:42:45, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:42:45, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:42:45, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 05:42:45, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:42:45, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 05:42:54, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 05:42:54, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 05:42:55, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 02:04:51, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 02:05:38, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 02:05:38, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 02:05:38, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 02:05:38, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 02:05:38, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 02:05:38, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 02:05:47, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 02:05:47, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 02:05:48, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query MUI Settings for Locale. Error: 0x80070002
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Ring. Error: 0x80070002
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::QueryRegistryDWord: Failed to query value. Error: 0x80070002
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for FlightingEnabled. Error: 0x80070002
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::Initialize failed to query for Flighting Branch. Error: 0x80070002
+2026-11-20 03:56:03, Error                        SrtTelemetryPopulationDetails::QueryRegistryString: Failed to open subkey. Error: 0x80070002
+2026-11-20 03:56:51, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 03:56:51, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 03:56:51, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 03:56:51, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 03:56:51, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 03:56:51, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 03:57:00, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 03:57:00, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 03:57:00, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 04:01:23, Error                        Failed to install wifi drivers , hr: 0x800106cc
+2026-11-20 04:01:33, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:01:33, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:01:33, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:01:33, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:01:33, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:01:33, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:02:39, Error                        PluginExecution: StartNetwork failed. error = 0x4c6
+2026-11-20 04:02:39, Error                        RunPluginDetection: Plugin detection failed. error = 0x32
+2026-11-20 04:02:39, Error                        Network is not accessible, cannot upload Watson report.
+2026-11-20 04:02:53, Error                        Failed to install wifi drivers , hr: 0x800106cc
+2026-11-20 04:03:03, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:03:03, Error                        Failed to get managed WiFi SSID, trying user set SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:03:03, Error                        Failed to get length of setting SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:03:03, Error                        Failed to get user set WiFi SSID. Error: 0x80070002[gle=0x00000002]
+2026-11-20 04:03:03, Error                        Failed to get wifi credentials from settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:03:03, Error                        ConnectToKnownNetwork: Failed to connect to wifi credential in settings. Error = 0x80070002[gle=0x00000002]
+2026-11-20 04:03:36, Error                        Plugin [{12B3359E-9647-4E6D-93B9-4112B62C7346}]: 0
+2026-11-20 04:03:59, Error                        Plugin [{12B3359E-9647-4E6D-93B9-4112B62C7346}]: BCU Plugin [Detect]: Enumerating files failed. Error: 0x80070003
+2026-11-20 04:03:59, Error                        Failure in IRecovery::Detect. Error: 0x80070003
+2026-11-20 04:03:59, Error                        RunPluginDetection: Failed to detect plugin C:\Windows\System32\BootCriticalUpdatePlugin.dll. Error: 0x80070003
+2026-11-20 04:04:06, Error                        No bugcheck info or minidump available.
+2026-11-20 04:04:06, Error                        StopNetworking() failed. error = 0x1f

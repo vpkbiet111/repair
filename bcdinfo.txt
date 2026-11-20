@@ -1,0 +1,165 @@
+
+Firmware Boot Manager
+---------------------
+identifier              {fwbootmgr}
+displayorder            {a3966189-81b6-11f1-afc7-806e6f6e6963}
+                        {bootmgr}
+                        {86048523-42dd-11ef-bc7f-806e6f6e6963}
+                        {86048524-42dd-11ef-bc7f-806e6f6e6963}
+                        {86048525-42dd-11ef-bc7f-806e6f6e6963}
+timeout                 0
+
+Windows Boot Manager
+--------------------
+identifier              {bootmgr}
+device                  partition=\Device\HarddiskVolume1
+path                    \EFI\Microsoft\Boot\bootmgfw.efi
+description             Windows Boot Manager
+locale                  en-US
+inherit                 {globalsettings}
+default                 {default}
+resumeobject            {650ba02a-10f4-11f0-bb58-faef90bd2591}
+displayorder            {default}
+toolsdisplayorder       {memdiag}
+timeout                 0
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {822599b9-8b0b-11f1-aff9-806e6f6e6963}
+description             EFI PXE 0 for IPv6 (40-C2-BA-5E-A8-CF) 
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {86048523-42dd-11ef-bc7f-806e6f6e6963}
+description             EFI USB Device
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {86048524-42dd-11ef-bc7f-806e6f6e6963}
+description             EFI DVD/CDROM
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {86048525-42dd-11ef-bc7f-806e6f6e6963}
+description             EFI Network
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {86048527-42dd-11ef-bc7f-806e6f6e6963}
+description             EFI PXE 0 for IPv4 (40-C2-BA-5E-A8-CF) 
+
+Firmware Application (101fffff)
+-------------------------------
+identifier              {a3966189-81b6-11f1-afc7-806e6f6e6963}
+device                  partition=\Device\HarddiskVolume1
+path                    \EFI\ubuntu\shimx64.efi
+description             ubuntu
+
+Windows Boot Loader
+-------------------
+identifier              {default}
+device                  partition=C:
+path                    \WINDOWS\system32\winload.efi
+description             Windows 11
+locale                  en-US
+inherit                 {bootloadersettings}
+recoverysequence        {current}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \WINDOWS
+resumeobject            {650ba02a-10f4-11f0-bb58-faef90bd2591}
+nx                      OptIn
+bootmenupolicy          Standard
+hypervisorlaunchtype    Auto
+
+Windows Boot Loader
+-------------------
+identifier              {current}
+device                  ramdisk=[F:]\Recovery\WindowsRE\Winre.wim,{650ba02d-10f4-11f0-bb58-faef90bd2591}
+path                    \windows\system32\winload.efi
+description             Windows Recovery Environment
+locale                  en-US
+inherit                 {bootloadersettings}
+displaymessage          Recovery
+osdevice                ramdisk=[F:]\Recovery\WindowsRE\Winre.wim,{650ba02d-10f4-11f0-bb58-faef90bd2591}
+systemroot              \windows
+nx                      OptIn
+bootmenupolicy          Standard
+winpe                   Yes
+
+Resume from Hibernate
+---------------------
+identifier              {650ba02a-10f4-11f0-bb58-faef90bd2591}
+device                  partition=C:
+path                    \WINDOWS\system32\winresume.efi
+description             Windows Resume Application
+locale                  en-US
+inherit                 {resumeloadersettings}
+recoverysequence        {current}
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+filedevice              partition=C:
+custom:21000026         partition=C:
+filepath                \hiberfil.sys
+bootmenupolicy          Standard
+debugoptionenabled      No
+
+Windows Memory Tester
+---------------------
+identifier              {memdiag}
+device                  partition=\Device\HarddiskVolume1
+path                    \EFI\Microsoft\Boot\memtest.efi
+description             Windows Memory Diagnostic
+locale                  en-US
+inherit                 {globalsettings}
+badmemoryaccess         Yes
+
+EMS Settings
+------------
+identifier              {emssettings}
+bootems                 No
+
+Debugger Settings
+-----------------
+identifier              {dbgsettings}
+debugtype               Local
+
+RAM Defects
+-----------
+identifier              {badmemory}
+
+Global Settings
+---------------
+identifier              {globalsettings}
+inherit                 {dbgsettings}
+                        {emssettings}
+                        {badmemory}
+
+Boot Loader Settings
+--------------------
+identifier              {bootloadersettings}
+inherit                 {globalsettings}
+                        {hypervisorsettings}
+
+Hypervisor Settings
+-------------------
+identifier              {hypervisorsettings}
+hypervisordebugtype     Serial
+hypervisordebugport     1
+hypervisorbaudrate      115200
+
+Resume Loader Settings
+----------------------
+identifier              {resumeloadersettings}
+inherit                 {globalsettings}
+
+Device options
+--------------
+identifier              {650ba02d-10f4-11f0-bb58-faef90bd2591}
+description             Windows Recovery
+ramdisksdidevice        partition=F:
+ramdisksdipath          \Recovery\WindowsRE\boot.sdi
